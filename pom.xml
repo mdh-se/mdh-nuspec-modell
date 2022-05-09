@@ -11,7 +11,7 @@
 
   <groupId>se.mdh.nuspec</groupId>
   <artifactId>mdh-nuspec-modell</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>Modeller för nuspec-filer.</description>
@@ -19,7 +19,7 @@
   <scm>
     <connection>scm:git:https://github.com/mdh-se/${project.artifactId}.git</connection>
     <developerConnection>scm:git:https://github.com/mdh-se/${project.artifactId}.git</developerConnection>
-    <tag>mdh-nuspec-modell-1.0.0</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/mdh-se/${project.artifactId}</url>
   </scm>
 
