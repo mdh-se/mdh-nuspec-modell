@@ -5,7 +5,7 @@
   <parent>
     <groupId>se.mdh</groupId>
     <artifactId>mdh-parent</artifactId>
-    <version>50</version>
+    <version>58</version>
     <relativePath>../mdh-parent/pom.xml</relativePath>
   </parent>
 
@@ -37,7 +37,6 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
-      <version>3.12.0</version>
     </dependency>
   </dependencies>
 
